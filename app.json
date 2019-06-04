@@ -1,7 +1,7 @@
 {
     "name": "DelphiDayApp",
     "namespace": "DelphiDayApp",
-    "version": "1.0.0.10",
+    "version": "1.0.0.11",
     "framework": "ext",
     "toolkit": "modern",
     "theme": "theme-material",
