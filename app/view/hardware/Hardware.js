@@ -33,11 +33,11 @@ Ext.define('DelphiDayApp.view.hardware.Hardware', {
         xtype: 'button',
         text: 'Device Orientation',
         targetView: 'orientation'
-    },{
+    }/*,{
         xtype: 'button',
         text: 'Push notification',
         targetView: 'push-notification'
-    }],
+    }*/],
 
     pushView(xtype) {
         let view = this.parentView.add({xtype});

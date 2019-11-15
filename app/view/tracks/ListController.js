@@ -19,5 +19,22 @@ Ext.define('DelphiDayApp.view.tracks.ListController', {
             title: location.record.get('title'),
             html: location.record.get('detail')
         });
+    },
+
+    showRooms(store, records) {
+        let tabPanel = this.getView().down('tabpanel'),
+            tabIndex = 0;
+        store.each((record) => {
+            //debugger;
+            tabPanel.items.getAt(tabIndex).tab.setTitle(record.get('name'));
+            tabPanel.items.getAt(tabIndex).tab.setVisibility(record.get('visible'));
+            tabIndex++;
+        }, this);
+
+    },
+
+    init() {
+        let roomsStore = Ext.create('DelphiDayApp.store.Rooms');
+        roomsStore.on('load', this.showRooms, this);
     }
 });

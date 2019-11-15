@@ -1,0 +1,40 @@
+[{
+        "title": "PWA per lo sviluppo mobile",
+        "speaker": "Mattia Vicari - Luca Minuti",
+        "detail": "Ormai <strong>Windows 10</strong> è di gran lunga la versione di Windows <strong>più popolare</strong>, ma la maggior parte delle applicazione non ne sfrutta appieno le potenzialità. Delphi già dalla versione <strong>10 Seattle</strong> ha introdotto il supporto a Windows 10 con nuovi componenti VCL e il supporto a servizi specifici <strong>WinRT/UWP</strong>. In questo seminario andremo ad approfondire alcune delle caratteristiche di Windows 10 che <strong>Delphi</strong> ci permette di usare. Vedremo anche come creare interfacce grafiche con un <strong>look and feel più moderno</strong> aderente alle specifiche di <strong>Fluent Design</strong> proposte da Microsoft.",
+        "time": "9:00 - 12:30",
+        "image": "speakers/mattia-vicari.png",
+        "lang": "it"
+}]
+/*
+[{
+		"title": "Alexa, parla con Delphi!",
+		"speaker": "Marco Breveglieri",
+		"detail": "Scopriamo assieme le <strong>potenzialit&agrave;</strong> degli <strong>assistenti digitali</strong>, come <strong>Amazon Echo</strong> e <strong>Google Home</strong>, quali sono gli scenari in cui possono essere utilizzati e come farli <strong>colloquiare</strong> con le nostre <strong>applicazioni Delphi</strong>, rendendole capaci di <strong>ascoltare</strong>, parlare e mostrare.",
+		"time": "11:00 - 12:00",
+		"image": "speakers/marco-breveglieri.jpg",
+		"lang": "it"
+	}, {
+		"title": "Firebird 4.0... it's time to replicate! replicate! replicate!",
+		"speaker": "Fabio Codebue",
+		"detail": "In questa sessione vedremo una presentazione delle <strong>novit&agrave;</strong> della <strong>versione 4</strong> di <strong>Firebird</strong> con esempi per configurare la <strong>replica dei dati</strong>.",
+		"time": "14:30 - 15:30",
+		"image": "speakers/fabio-codebue.jpg",
+		"lang": "it"
+	}, {
+		"title": "PWA per lo sviluppo mobile",
+		"speaker": "Luca Minuti - Paolo Rossi",
+		"detail": "Con l'evoluzione delle <strong>capacit&agrave; dei browser</strong> moderni la differenza tra applicazioni <strong>native</strong> e applicazioni <strong>web</strong> &egrave; sempre pi&ugrave; sottile. In questo talk vedremo alcune delle nuove possibilit&agrave; offerte dallo sviluppo web e come sfruttarle con <strong>Delphi</strong> e <strong>ExtJS</strong> per realizzare facilmente e velocemente app mobile davvero <strong>multipiattaforma</strong>!",
+		"time": "15:30 - 16:30",
+		"image": "speakers/paolo-rossi.jpg",
+		"lang": "it"
+	}, {
+		"title": "Cr1tt0gr4f14 con plugin per Firebird 4.0",
+		"speaker": "Fabio Codebue",
+		"detail": "Partendo delle novit&agrave; per la <strong>crittografia</strong> introdotte nel <strong>linguaggio SQL</strong> per la crittografia intraprenderemo un percorso che ci porta alla costruzione di un semplice <strong>plugin in Delphi</strong> per la crittografia del database in <strong>Firebird 4.0</strong>",
+		"time": "17:00 - 18:00",
+		"image": "speakers/fabio-codebue.jpg",
+		"lang": "it"
+	}
+]
+*/

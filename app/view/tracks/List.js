@@ -9,7 +9,8 @@ Ext.define('DelphiDayApp.view.tracks.List', {
         'DelphiDayApp.view.tracks.ListController',
         'DelphiDayApp.store.FarneseTracks',
         'DelphiDayApp.store.ViscontiTracks',
-        'DelphiDayApp.store.StudioTracks'
+        'DelphiDayApp.store.StudioTracks',
+        'DelphiDayApp.store.Rooms'
     ],
 
     controller: 'tracks-list',
@@ -24,7 +25,7 @@ Ext.define('DelphiDayApp.view.tracks.List', {
         xtype: 'tabpanel',
         tabBarPosition: 'top',
         items: [{
-            title: 'Farnese',
+            title: 'Sala 1',
             layout: 'fit',
             items: {
                 xtype: 'list',
@@ -47,7 +48,7 @@ Ext.define('DelphiDayApp.view.tracks.List', {
             }
 
         },{
-            title: 'Visconti',
+            title: 'Sala 2',
             layout: 'fit',
             items: {
                 xtype: 'list',
@@ -69,7 +70,7 @@ Ext.define('DelphiDayApp.view.tracks.List', {
                 }
             }
         },{
-            title: 'Studio',
+            title: 'Sala 3',
             layout: 'fit',
             items: {
                 xtype: 'list',

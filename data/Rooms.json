@@ -1,0 +1,12 @@
+[
+	{
+		"name": "TRACK A",
+		"visible": true
+	}, {
+		"name": "TRACK B",
+		"visible": true
+	}, {
+		"name": "TRACK C",
+		"visible": false
+	}
+]

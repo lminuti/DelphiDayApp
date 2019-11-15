@@ -1,0 +1,27 @@
+[{
+		"name": "Paolo Rossi",
+		"title": "Embarcadero & Sencha MVP",
+		"detail": "Docente Delphi da più di 15 anni. Consulente su tecnologie web, mobile e database. Speaker a numerose conferenze Delphi. Autore della libreria Delphi JWT e della libreria REST WiRL",
+		"image": "speakers/paolo-rossi.jpg"
+	}, {
+		"name": "Marco Cantù",
+		"title": "Embarcadero Technologies",
+		"detail": "Marco is a RAD Studio Product Manager at Embarcadero Technologies, a best-selling Delphi books author, and a Delphi guru",
+		"image": "speakers/marco-cantu.jpg"
+	}, {
+		"name": "Luca Minuti",
+		"title": "",
+		"detail": "Lavora con Delphi sin dalla prima versione passando da applicazioni client/server a multi-tier su diverse piattaforme. Ultimamente svilluppa principalmente WebApp per desktop e mobile utilizzando ExtJS per il frontend.",
+		"image": "speakers/luca-minuti.jpg"
+	}, {
+		"name": "Maurizio Del Magno",
+		"title": "Levante Software",
+		"detail": "Responsabile dello sviluppo del software Levante (gestionale settore termoidraulica) usa Delphi fin dalla prima versione, negli ultimi due anni si è dedicato alla realizzazione di un ORM.",
+		"image": "speakers/maurizio-del-magno.jpg"
+	}, {
+		"name": "Mattia Vicari",
+		"title": "Infocer",
+		"detail": "Full Stack Developer con anni di esperienza nello sviluppo di applicazioni in C++, C#, PHP e Javascript, dal 2016 sviluppatore Delphi presso Infocer. Sviluppa App native per Windows 10 (UWP) e Android, appassionato di grafica 3D, utilizza da anni DirectX per i rendering in real time e ha una buona conoscenza del software di modellazione <a href='https://www.blender.org/'>Blender</a>. Le info sul suo sito personale <a href='https://3dcrypter.it/'>3DCrypter</a>",
+		"image": "speakers/mattia-vicari.png"
+	}
+]

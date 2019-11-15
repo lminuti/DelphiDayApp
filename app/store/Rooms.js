@@ -1,19 +1,19 @@
-Ext.define('DelphiDayApp.store.StudioTracks', {
+Ext.define('DelphiDayApp.store.Rooms', {
     extend: 'Ext.data.Store',
 
-    alias: 'store.studio-tracks',
+    alias: 'store.rooms',
 
     fields: [
-        'title', 'speaker', 'detail', 'time'
+        'name'
     ],
 
     autoLoad: true,
-    
+
     proxy: {
         type: 'ajax',
         
         // @sw-cache
-        url: 'data/Room3.json',
+        url: 'data/Rooms.json',
         pageParam: false,
         startParam: false,
         limitParam: false,

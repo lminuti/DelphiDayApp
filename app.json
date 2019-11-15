@@ -1,7 +1,7 @@
 {
     "name": "DelphiDayApp",
     "namespace": "DelphiDayApp",
-    "version": "1.0.0.11",
+    "version": "1.0.0.15",
     "framework": "ext",
     "toolkit": "modern",
     "theme": "theme-material",
@@ -470,7 +470,8 @@
         {
             "path": "resources",
             "output": "shared"
-        }
+        }//,
+        //"data"
     ],
 
     /**

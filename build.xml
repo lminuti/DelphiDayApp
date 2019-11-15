@@ -63,6 +63,7 @@
         ]]>
     </script>
 
+    <!--
     <target name="-after-build">
         <if>
         <equals arg1="${build.environment}" arg2="production"/>
@@ -75,6 +76,7 @@
         </then>
     </if>
     </target>
+    -->
 
 
     <!--
@@ -108,5 +110,15 @@
             <target name="-before-build"/>
             <target name="-after-build"/>
     -->
+
+            <target name="-before-build">
+                <delete dir="${build.dir}\data"/>
+            </target>
+
+            <target name="-after-build">
+                <copy todir="${build.dir}\data">
+                    <fileset dir="data"/>
+                </copy>
+            </target>
 
 </project>

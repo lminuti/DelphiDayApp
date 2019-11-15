@@ -1,0 +1,145 @@
+[{
+        "title": "Capire i LiveBindings e sfruttarli al meglio",
+        "speaker": "Maurizio Del Magno",
+        "detail": "<p>Ammettiamolo, i <strong>LiveBindings</strong> non sono riusciti a conquistare la preferenza di tutti, da alcuni è considerato una sorta di brutto anatroccolo; ma è davvero così oppure serve solo <strong>conoscerli meglio</strong>?</p><p>Come tutti gli strumenti hanno caratteristiche che li rendono perfetti in certi contesti, meno in altri. Il seminario propone di <strong>capire la vera natura</strong> dei <strong>LiveBindings</strong>, sfruttare al meglio le possibilità che offrono, andare oltre il semplice collegamento <strong>DB-UI</strong> e realizzare una architettura veramente OOP, in <strong>progetti FMX e VCL</strong>. Il brutto anatroccolo si trasformerà in cigno?</p>",
+        "time": "9:00 - 12:30",
+        "image": "speakers/maurizio-del-magno.jpg",
+        "lang": "it"    
+},{
+        "title": "Check-in conferenza",
+        "speaker": "Wintech Italia",
+        "detail": "Check-in conferenza",
+        "time": "13:45",
+        "image": "registration.png",
+        "lang": "null"    
+},{
+        "title": "Uno sguardo al futuro di Delphi",
+        "speaker": "Paolo Rossi - Embarcadero MVP",
+        "detail": "Uno sguardo alle ultime novità del nostro strumento di sviluppo con un focus sulle ultime novità ed acquisizioni di IDERA nel mondo dei tools di sviluppo e database.",
+        "time": "14:20 - 15:00",
+        "image": "speakers/paolo-rossi.jpg",
+        "lang": "it"    
+},{
+        "title": "Affrontare la migrazione da C/S a Multitier",
+        "speaker": "Paolo Rossi - Embarcadero MVP",
+        "detail": "<p>L'architettura <strong>Client/Server</strong> è stata una delle <strong>più efficaci</strong> (soprattutto in Delphi) nella costruzioni di applicativi Windows di tutte le tipologie. Da diversi anni però, grazie anche all'arrivo delle <strong>app web e mobile</strong>, non rappresenta più l'unica soluzione e <strong>nemmeno la migliore</strong>. In questa sessione vedremo come è possibile (<strong>e anche necessario</strong>) passare ad un'architettura multi-tier <strong>senza</strong> (eventualmente) <strong>buttare il codice</strong> pre-esistente.</p><p>L'architettura <strong>multi-tier</strong> è tra l'altro perfetta sia per applicazioni DB-based sia per applicazioni tipiche di <strong>automazione</strong> e raccolta dati da dispositivi <strong>IoT</strong>.</p>",
+        "time": "15:00 - 15:40",
+        "image": "speakers/paolo-rossi.jpg",
+        "lang": "it"    
+},{
+        "title": "Cloud strategies with RAD Server",
+        "speaker": "Marco Cantù - Embarcadero Technologies",
+        "detail": "TBD",
+        "time": "15:40 - 16:00",
+        "image": "speakers/marco-cantu.jpg",
+        "lang": "it"    
+    }, {
+        "title": "Coffee Break",
+        "speaker": "Wintech Italia",
+        "detail": "Coffee Break",
+        "time": "16:00 - 16:40",
+        "image": "coffee.png",
+        "lang": "null"
+    }, {
+        "title": "Smontare il monolite: REST e Redis per applicazioni scalabili",
+        "speaker": "Luca Minuti - Mattia Vicari",
+        "detail": "<p>Una <strong>struttura monolitica</strong> per la costruzione di applicazioni può risultare comoda all'inizio ma rappresenta un <strong>limite alla crescita</strong> e alla <strong>complessità del progetto</strong> soprattutto se questo è di grandi dimensioni.</p><p>In questa sessione, con l'ausilio della <strong>libreria REST WiRL</strong> e del <strong>memory datastore Redis</strong>, vedremo come sviluppare un applicazione modulare dove più <strong>processi/servizi</strong> comunicano tra di loro (e con il client) nel modo più efficiente possibile.</p>",
+        "time": "16:40 - 17:30",
+        "image": "speakers/luca-minuti.jpg",
+        "lang": "it"
+},{
+        "title": "Da Multitier al Cloud: Quali strategie?",
+        "speaker": "Paolo Rossi - Embarcadero MVP",
+        "detail": "<p>Il multitier rappresenta l'<strong>architettura ideale</strong> per affiancare applicazioni <strong>web e/o mobile</strong> ad una tradizionale applicazione desktop già esistente, tuttavia oggi alcune funzionalità quali alta <strong>disponibilità</strong>, <strong>scalabilità</strong> e <strong>costi di gestione</strong> fanno propendere per uno spostamento sempre più massiccio di tier o <strong>micro-servizi sul cloud</strong>.</p><p>In questa sessione studieremo nel dettaglio l'<strong>architettura cloud</strong>, capendo quali sono le funzionalità e caratteristiche in base a cui scegliere il <strong>fornitore cloud</strong> e vedremo anche le strategie migliori per <strong>portare applicativi n-tier</strong> scritti in <strong>Delphi</strong> sul cloud.</p>",
+        "time": "17:30 - 18:15",
+        "image": "speakers/paolo-rossi.jpg",
+        "lang": "it"    
+},{
+        "title": "Domande relatori e conclusione lavori",
+        "speaker": "Wintech Italia Team",
+        "detail": "Le <strong>domande finali</strong> a tutti gli <strong>speaker e sponsor</strong> e un'anticipazione delle <strong>prossime giornate Delphi Day</strong> (dove e quando) dedicate a voi!",
+        "time": "18:15",
+        "image": "wintech-digit-black.png",
+        "lang": "it"    
+}]
+/*
+[{
+        "title": "Benvenuto e presentazione",
+        "speaker": "Paolo Rossi ",
+        "detail": "Una breve presentazione della <b>XVIII edizione del Delphi Day</b>, degli speaker e degli <b>sponsor</b> della giornata, con un accenno alle novità delle prossime edizioni. Tutte le informazioni sullo svolgimento della <b>giornata di conferenza</b> e le info logistiche.",
+        "time": "09:00 - 9:30",
+        "image": "speakers/paolo-rossi.jpg",
+        "lang": "it"
+    }, {
+        "title": "Lo stato e il futuro di Delphi",
+        "speaker": "Marco Cantù",
+        "detail": "Lo <strong>stato dell'arte</strong> di Delphi, con particolare riferimento al supporto per l'ultima versione del sistema operativo di casa Microsoft, <strong>Windows 10</strong>, e <strong>altri sistemi operativi</strong>, e indicazioni per le prossime versioni direttamente dalle parole del <strong>Product Manager</strong> del prodotto.",
+        "time": "09:30 - 10:30",
+        "image": "speakers/marco-cantu.jpg",
+        "lang": "it"
+    }, {
+        "title": "Coffee Break",
+        "speaker": "Wintech Italia",
+        "detail": "Brought to you by <a href=\"http://www.ositalia.com/\">OSItalia</a>",
+        "time": "10:30",
+        "image": "coffee.png",
+        "lang": "null"
+    }, {
+        "title": "Fun with Enumerators",
+        "speaker": "Primož Gabrijelčič",
+        "detail": "The <strong>for..in</strong> Delphi language construct is a great example for the power of the <strong>Iterator pattern</strong>. It is <strong>simple to use</strong> and simple to extend. With just few easy additions, we can add support for the for..in construct to <strong>any data structure</strong>. In this session I will talk about:\n                  <ul>\n                    <li><strong>Implementing</strong> support for for..in in your code</li>\n                    <li>Reusing <strong>RTL iterators</strong> to do the dirty work</li>\n                    <li>Using for..in for <strong>other purposes</strong></li>\n                  </ul>\n                ",
+        "time": "11:00 - 12:00",
+        "image": "speakers/primoz-gabrijelcic.jpg",
+        "lang": "en"
+    }, {
+        "title": "ExtReact, ExtAngular and ExtWebComponents",
+        "speaker": "Olga Petrova",
+        "detail": "TBD",
+        "time": "12:00 - 13:00",
+        "image": "speakers/olga-petrova.jpg",
+        "lang": "en"
+    }, {
+        "title": "Lunch Break",
+        "speaker": "Wintech Italia",
+        "detail": "Brought to you by <a href=\"https://www.wintech-italia.it/\">Wintech Italia</a>.",
+        "time": "13:00-14:30",
+        "image": "steak.png",
+        "lang": "null"
+    }, {
+        "title": "Documentare le vostre API REST",
+        "speaker": "Paolo Rossi",
+        "detail": "In Delphi ci sono diverse librerie per costruire facilmente\n                <strong>servizi REST</strong>. Uno dei punti di forza di un servizio REST &egrave; la possibilit&agrave; di <strong>pubblicare all'esterno</strong> il servizio (<strong>API</strong>) per farlo usare da clienti, fornitori o <strong>terze parti</strong>. In questo scenario fornire all'utente della API una <strong>buona documentazione</strong> &egrave; fondamentale anche se sappiamo tutti quanto &egrave; faticoso e time-consuming scrivere e tenere aggiornata la documentazione. In questo talk vedremo come <strong>automatizzare</strong> questo task e (magari usando la libreria giusta) avere la documentazione pubblicata automaticamente.",
+        "time": "14:30 - 15:30",
+        "image": "speakers/paolo-rossi.jpg",
+        "lang": "it"
+    }, {
+        "title": "VCL projects modernization",
+        "speaker": "Bogdan Polak",
+        "detail": "A plan for <strong>modernization</strong> classic <strong>VCL projects</strong>, which have reached a size that is <strong>difficult to maintain</strong>. It consists of 4 main phases allowing to <strong>incrementally modernize</strong> the project itself and the team's approach too. It allows you to encourage Delphi developers to <strong>change practices</strong> and apply <strong>new techniques</strong>, while providing visibility and control for the management. In long term, will allow to improve programers <strong>satisfaction</strong>, increase <strong>delivery efficiency</strong> and <strong>reduce</strong> the number of errors.",
+        "time": "15:30 - 16:30",
+        "image": "speakers/bogdan-polak.jpg",
+        "lang": "en"
+    }, {
+        "title": "Coffee Break",
+        "speaker": "Wintech Italia",
+        "detail": "Brought to you by <a href=\"http://www.technolog.it/\">Technolog</a>",
+        "time": "16:30",
+        "image": "coffee.png",
+        "lang": "null"
+    }, {
+        "title": "Delphi e Redis: accoppiata vincente",
+        "speaker": "Luca Minuti",
+        "detail": "<strong>Redis</strong> &egrave; un data store open source dalle <strong>mille risorse</strong>. In questo talk impareremo a conoscerlo e vedremo alcune delle sue caratteristiche principali tramite una <strong>serie di demo</strong>:\n                  <ul>\n                    <li>Gestione della <strong>cache</strong> tramite <strong>key/value</strong> store</li>\n                    <li><strong>Messaggi asincroni</strong> con le code</li>\n                    <li><strong>Notifiche</strong> in tempo reale con Publish/Subcribe</li>\n                  </ul>\n\n            ",
+        "time": "17:00 - 18:00",
+        "image": "speakers/luca-minuti.jpg",
+        "lang": "it"
+    }, {
+        "title": "Domande relatori e conclusione lavori",
+        "speaker": "Wintech Italia",
+        "detail": "Le <strong>domande finali</strong> a tutti gli <strong>speaker e sponsor</strong> e un'anticipazione delle <strong>prossime giornate Delphi Day</strong> (dove e quando) dedicate a voi!",
+        "time": "18:00 - 18:15",
+        "image": "speakers/paolo-rossi.jpg",
+        "lang": "it"
+    }
+]
+*/
